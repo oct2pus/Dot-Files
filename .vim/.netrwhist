@@ -1,8 +1,4 @@
 let g:netrw_dirhistmax  =10
-let g:netrw_dirhist_cnt =6
-let g:netrw_dirhist_1='/home'
-let g:netrw_dirhist_2='/'
-let g:netrw_dirhist_3='/home/oct2pus'
-let g:netrw_dirhist_4='/home'
-let g:netrw_dirhist_5='/home/oct2pus/Music'
-let g:netrw_dirhist_6='/home/oct2pus'
+let g:netrw_dirhist_cnt =2
+let g:netrw_dirhist_1='/home/oct2pus/Coding/jadebot/src/modules/commands'
+let g:netrw_dirhist_2='/home/oct2pus/.config/nvim'
