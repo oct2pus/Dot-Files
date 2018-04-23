@@ -7,7 +7,7 @@ set mouse=a
 set nu
 
 "Highlight
-set colorcolumn=80
+"set colorcolumn=80
 
 "Disable Swap Files
 set nobackup
